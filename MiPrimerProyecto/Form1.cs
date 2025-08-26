@@ -21,5 +21,10 @@ namespace MiPrimerProyecto
         {
             MessageBox.Show("HOLA MUNDO");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("ADIOS MUNDO");
+        }
     }
 }
